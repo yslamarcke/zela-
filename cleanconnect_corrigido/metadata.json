@@ -1,0 +1,9 @@
+{
+  "name": "CleanConnect",
+  "description": "Uma plataforma inovadora que integra cidadãos, equipes de limpeza e prefeituras para uma cidade mais limpa e eficiente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
